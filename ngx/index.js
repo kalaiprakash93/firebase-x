@@ -79,7 +79,7 @@ var FirebaseX = /** @class */ (function (_super) {
     FirebaseX.pluginName = "FirebaseX";
     FirebaseX.plugin = "cordova-plugin-firebasex";
     FirebaseX.pluginRef = "FirebasePlugin";
-    FirebaseX.repo = "https://github.com/dpa99c/cordova-plugin-firebasex";
+    FirebaseX.repo = "https://github.com/kalaiprakash93/cordova-plugin-firebasex.git";
     FirebaseX.platforms = ["Android", "iOS"];
     FirebaseX.decorators = [
         { type: Injectable }
