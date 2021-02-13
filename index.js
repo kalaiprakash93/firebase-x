@@ -90,7 +90,7 @@ var FirebaseXOriginal = /** @class */ (function (_super) {
     FirebaseXOriginal.pluginName = "FirebaseX";
     FirebaseXOriginal.plugin = "cordova-plugin-firebasex";
     FirebaseXOriginal.pluginRef = "FirebasePlugin";
-    FirebaseXOriginal.repo = "https://github.com/dpa99c/cordova-plugin-firebasex";
+    FirebaseXOriginal.repo = "https://github.com/kalaiprakash93/cordova-plugin-firebasex.git";
     FirebaseXOriginal.platforms = ["Android", "iOS"];
     return FirebaseXOriginal;
 }(IonicNativePlugin));
